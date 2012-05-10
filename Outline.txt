@@ -1,1 +1,19 @@
-1. 
+1. Level Design
+2. Sounds and Visuals
+3. "Power level"
+	1. First person to make vegeta joke gets punched
+	2. "Avatar strength" vs. "Player strength".
+		1. Avatar strength - When the character gets stronger
+		2. Player strength - When the player must get better to pass an obsticle
+4. Difficulty level
+	1. "Real" Difficulty: An obsticle that requires an increase in Player Strength to bypass
+	2. "Fake" difficulty: An obsticle that requires an increase in Avatar Strenght to bypass
+5. Difficutly vs. Reward (Dark Souls, Roguelikes, etc.)
+	1. Too much difficulty, not enough reward: Game is frustrating
+	2. Too little difficulty, too much reward: Game is simple and boring
+	3. Unfair Difficulty (IWTBTG) vs. Fair Difficulty (SUUUUUUUPER MEAT BOY)
+	4. Best games where difficulty is fair and just on the edge of the player's ability.
+6. "Flow"
+	1. "Gamer's high", basically.
+	2. Important, but rare.
+	3. Da Chart 
